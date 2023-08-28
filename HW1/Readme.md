@@ -24,9 +24,11 @@ To create the GitHub repository follow the steps below:
   Go to github.com - now it will look different!
   
   <img width="838" alt="Screen Shot 2023-08-28 at 3 09 32 PM" src="https://github.com/fedhere/DSPS_FBianco/assets/1696902/d084e9fb-ed1e-41fd-a1c0-bb247fe2df46">
+
   Select "Public" for the repository status and "Add a READEME file" and Python for .gitignore template
   <img width="828" alt="Screen Shot 2023-08-28 at 3 19 36 PM" src="https://github.com/fedhere/DSPS_FBianco0/assets/1696902/7507e819-8925-4e4a-9e85-1c47aa7fd1a7">
-  When you click "Create Rpository" this will take you to your new "repo". There, edit the Readme.md (use the pencil on the left) 
+
+  When you click "Create Repository" this will take you to your new "repo". There, edit the Readme.md (use the pencil on the left) 
   <img width="841" alt="Screen Shot 2023-08-28 at 3 11 34 PM" src="https://github.com/fedhere/DSPS_FBianco0/assets/1696902/f21b53ad-51dc-4078-bcd7-40964937dc8f">
 
   Include the following information (answer the questions)
