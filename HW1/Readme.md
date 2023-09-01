@@ -4,7 +4,7 @@
 
 Reading
 
-[[https://science.sciencemag.org/content/347/6228/1314.summary](https://www.aaas.org/sites/default/files/Stats_What_Question_2015.pdf?g_zGQR5m3rDJqwXqJ3DxLI5pXZ3hNdHk)](https://www.aaas.org/sites/default/files/Stats_What_Question_2015.pdf?g_zGQR5m3rDJqwXqJ3DxLI5pXZ3hNdHk)
+https://www.aaas.org/sites/default/files/Stats_What_Question_2015.pdf?g_zGQR5m3rDJqwXqJ3DxLI5pXZ3hNdHk
 
 ## ASSIGNMENT
 - make an account on GitHub if you do not have one yet
