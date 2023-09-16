@@ -1,7 +1,6 @@
 ## ASSIGNED READING:
-
-- [The Earth is Round (p<0.05)](http://fbb.space/dsps/Cohen1994_TheEarthIsRound_AmPsych.pdf), Jacob Cohen 1994. A critique of _p_-value based science. 
-(The above link is free, the [official link](http://psycnet.apa.org/fulltext/1995-12080-001.html) should be free whenn accessed within the UD network.
+[What we talk about when we talk about AI]
+(https://futurium.ec.europa.eu/sv/european-ai-alliance/blog/what-we-talk-about-when-we-talk-about-ai?language=sv)
 
 # Assignment 1: Understanding the Maxwell Boltzman distribution
 
