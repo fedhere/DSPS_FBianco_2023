@@ -1,5 +1,5 @@
 ## ASSIGNED READING:
-[What we talk about when we talk about AI](https://futurium.ec.europa.eu/sv/european-ai-alliance/blog/what-we-talk-about-when-we-talk-about-ai?language=sv)
+What we talk about when we talk about AI (Virginia Dignum, 2018) https://futurium.ec.europa.eu/sv/european-ai-alliance/blog/what-we-talk-about-when-we-talk-about-ai?language=sv
 
 # Assignment 1: Understanding the Maxwell Boltzman distribution
 
