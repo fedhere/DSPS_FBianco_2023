@@ -13,7 +13,7 @@ Remember to include a README.md, in markdown format, that states how your team w
 
 # 1. Uncerainties and Dark Matter 
 
-follow the instructions in the notebook [Galrotation.ipynb](Galrotation.ipynb)
+follow the instructions in the notebook [MWrotCurve_instructions.ipynb](MWrotCurve_instructions.ipynb)
 
 # 2. 661 students (and extra credit for 461)
 
