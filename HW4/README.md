@@ -20,5 +20,4 @@ follow the instructions in the notebook [MWrotCurve_instructions.ipynb](MWrotCur
 Problem on MCMC and estimation of uncertainties (TBD)
 
 
-Problem 1 in [Hogg and Foreman-Mackey 2017](https://arxiv.org/pdf/1710.06068.pdf). You cannot choose: Gaussian, Poisson, or Binomial. Any other distribution is fine. Make sure that your chosen disrtibution has defined mean, variance, skewness, and kurtosis! (e.g. of a distribution with non defined is the Cauchy distribution, which is my favorite. Ask me why if you are curious!)
-You can find the "sample extimated of the moments" [here](https://www.statisticshowto.datasciencecentral.com)
+Problem 2 in [Hogg and Foreman-Mackey 2017](https://arxiv.org/pdf/1710.06068.pdf). Most of the stuff you need to do it is in the Pi lab we did in class (e.g. the "isin" function is the same scheme you will use to reject proposals)
