@@ -1,6 +1,7 @@
 # HW6
 
 Due Thursday November 2nd, 11:59pm.
+
 Reminder: Office Hours at 5:30pm, Wednesday November 1st in SHL Rm 225.
 
 ## Tasks
