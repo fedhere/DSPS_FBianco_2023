@@ -1,5 +1,7 @@
 # HW6
 
+Due Thursday November 2nd, 11:59pm.
+
 ## Tasks
 
 - Using a statsmodels dataset.
