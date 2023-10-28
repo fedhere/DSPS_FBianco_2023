@@ -16,3 +16,7 @@ You'll be graded on the following tasks:
   - Your figure must conform to all previously established standards.
   - You must have a figure caption which explains *what* is being plotted and *why* it is important.
   - Speculate on the quality of your model and its ability to predict future sea temperatures. If the model doesn't perform well, speculate on why that might be. Be specific about what your model does wrong (does it capture the periodic behavior but not the amplitude? Does it capture the initial data but completely fails at predicting new data?) or right. Consider your choice of kernel function. Why did you choose that kernel function?
+
+## Tips
+
+- Check out the Python package [`icecream'](https://github.com/gruns/icecream)
