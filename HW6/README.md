@@ -19,4 +19,4 @@ You'll be graded on the following tasks:
 
 ## Tips
 
-- Check out the Python package [`icecream'](https://github.com/gruns/icecream)
+- Check out the Python package [`icecream`](https://github.com/gruns/icecream)
