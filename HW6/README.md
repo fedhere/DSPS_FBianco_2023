@@ -1,7 +1,5 @@
 # HW6
 
----
-
 ## Tasks
 
 - Using a statsmodels dataset.
