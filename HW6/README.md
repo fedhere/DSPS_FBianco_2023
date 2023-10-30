@@ -12,7 +12,7 @@ You'll be graded on the following tasks:
   - You must have a figure caption which explains *what* is being plotted and *why* it is important.
 3. Completing the `get_interpolated_time` function.
 4. Completing the `gaussian_process_regression` function.
-  - The documentation for the `george` package can be found [here](https://www.statsmodels.org/devel/datasets/generated/elnino.html).
+  - The documentation for the `george` package can be found [here](https://george.readthedocs.io/en/latest/).
 5. Completing the `optimize` function.
 6. Completing the `visualize_model` function.
   - Your figure must conform to all previously established standards.
