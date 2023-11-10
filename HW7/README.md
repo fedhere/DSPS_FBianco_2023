@@ -13,6 +13,9 @@ Kidney microarray data: There were three different subtypes of renal cell cancer
 and chromophobe (ch). These pheno-variables may be used for classification or differential
 expression. The gene expression is quite strongly associated with the subtype.
 
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC187526/
+<img width="759" alt="Screen Shot 2023-11-09 at 10 29 32 PM" src="https://github.com/fedhere/DSPS_FBianco/assets/1696902/1b544051-54ab-4a92-9337-ac8c6711b07b">
+
 _An underlying assumption is that by clustering genes based on similarity of their expression patterns in a limited set of experiments, we can establish guilt by association—that is, genes with similar expression patterns are more likely to have similar biological function_
 
 _It is easy to construct examples in which genes known to share similar functions end up in different clusters [...] 
