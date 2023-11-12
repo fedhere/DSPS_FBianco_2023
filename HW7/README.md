@@ -1,5 +1,13 @@
+# Cluster the kidpack microarray data
+You will be asked to run 2 (461) or 3 (661) clustering methods on the same data. The clustering methods are easy to run in sklearn, but what is important here are the considerations you make. Read the description of the data below. 
+
+
+
 **kidpack: kidney microarray data**
 https://www.bioconductor.org/packages/release/data/experiment/manuals/kidpack/man/kidpack.pdf
+
+**The dataset:** There were three different subtypes of renal cell cancer (RCC): clear cell (cc), papillary (p), and chromophobe (ch). These pheno-variables may be used for classification or differential expression. The gene expression is quite strongly associated with the subtype.
+
 
 Microarrays are a technology used to measure the expression levels of thousands of genes simultaneously.
 Data from microarray experiments is often represented as a table with rows corresponding to genes and columns corresponding to different samples (e.g., different tissues, time points, or experimental conditions).
@@ -9,9 +17,10 @@ RNA sequencing (RNA-seq) is a more recent and versatile technology for gene expr
 RNA-seq data is typically stored in a format called FASTQ, which contains the raw sequence data. After processing, the data can be represented as a table similar to microarray data.
 The table includes rows for genes and columns for samples, with values representing the expression levels. The units may be counts (number of reads mapped to a gene) or normalized values, such as fragments per kilobase of transcript per million mapped reads (FPKM) or transcripts per million (TPM).
 
-Kidney microarray data: There were three different subtypes of renal cell cancer (RCC): clear cell (cc), papillary (p),
-and chromophobe (ch). These pheno-variables may be used for classification or differential
-expression. The gene expression is quite strongly associated with the subtype.
+**Clustering is routinely used in genetics and bioinformatics studies of genes and pathologies**. 
+# READING ASSIGNMENT:
+
+Read the intro of the following paper (the paragraph below are extracted from it)
 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC187526/
 <img width="759" alt="Screen Shot 2023-11-09 at 10 29 32 PM" src="https://github.com/fedhere/DSPS_FBianco/assets/1696902/1b544051-54ab-4a92-9337-ac8c6711b07b">
