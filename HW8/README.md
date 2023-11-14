@@ -5,11 +5,11 @@ The README.md should contain each of the two images, a description of why it is 
 
 What is wrong with it: 
  
- **ambiguity**
+-  **ambiguity**
  
- **distortion**
+-  **distortion**
  
- **distraction**
+-  **distraction**
 
 Is it respecting the 5 Tufte’s rules:
 
