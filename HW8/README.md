@@ -5,9 +5,7 @@ The README.md should contain each of the two images, a description of why it is 
 
 What is wrong with it: - ambiguity, distortion, distraction
 
-Is it respecting the 5 Tufte's rules" 
-
-Tufte’s rules:
+Is it respecting the 5 Tufte’s rules:
 
 - **effect size ~ 1**: The representation of numbers, as physically measured on the surface of the graph itself, should be directly proportional to the numerical quantities represented   ("lie factor")                                                                                                                          
 - **data/ink >> 1**: Clear, detailed and thorough labeling should be used to defeat graphical distortion and ambiguity.  Write out explanations of the data on the graph itself.  Label important events in the data                                                                             
