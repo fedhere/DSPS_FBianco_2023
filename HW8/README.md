@@ -3,7 +3,13 @@ Part 1:
   - Download the image or screenshot it and post it to your HW8 README.md. 
 The README.md should contain each of the two images, a description of why it is good/bad based on the criteria discussed in class for data and scientific visualizations https://slides.com/federicabianco/dsps_10
 
-What is wrong with it: - ambiguity, distortion, distraction
+What is wrong with it: 
+ 
+ **ambiguity**
+ 
+ **distortion**
+ 
+ **distraction**
 
 Is it respecting the 5 Tufte’s rules:
 
