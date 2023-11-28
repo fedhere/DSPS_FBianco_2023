@@ -9,9 +9,10 @@
 - Produce a confusion matrix for each model and compare them
 
 DSPS 661 students (EC for 461)
-    - Use a _Random Forest and a Gradient Boosted Tree **Regressor**_ model to predict the weight of the particles.
+    
+   - Use a _Random Forest and a Gradient Boosted Tree **Regressor**_ model to predict the weight of the particles.
 
-    - Calculate the L1 and L2 metrics of each model and compare them.
+   - Calculate the L1 and L2 metrics of each model and compare them.
 
 Both 661 and 461 students choose either: 
 
